@@ -1,0 +1,15 @@
+C:\repo\control_work\bin\Debug\net6.0\control_work.exe
+C:\repo\control_work\bin\Debug\net6.0\control_work.deps.json
+C:\repo\control_work\bin\Debug\net6.0\control_work.runtimeconfig.json
+C:\repo\control_work\bin\Debug\net6.0\control_work.dll
+C:\repo\control_work\bin\Debug\net6.0\control_work.pdb
+C:\repo\control_work\obj\Debug\net6.0\control_work.csproj.AssemblyReference.cache
+C:\repo\control_work\obj\Debug\net6.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\control_work\obj\Debug\net6.0\control_work.AssemblyInfoInputs.cache
+C:\repo\control_work\obj\Debug\net6.0\control_work.AssemblyInfo.cs
+C:\repo\control_work\obj\Debug\net6.0\control_work.csproj.CoreCompileInputs.cache
+C:\repo\control_work\obj\Debug\net6.0\control_work.dll
+C:\repo\control_work\obj\Debug\net6.0\refint\control_work.dll
+C:\repo\control_work\obj\Debug\net6.0\control_work.pdb
+C:\repo\control_work\obj\Debug\net6.0\control_work.genruntimeconfig.cache
+C:\repo\control_work\obj\Debug\net6.0\ref\control_work.dll
